@@ -1,0 +1,5 @@
+# Ignore temp/backup files editors sometimes leave behind
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
